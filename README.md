@@ -2,9 +2,8 @@
 
 
 ## Getting Started
- - Open the installation URL below, your page will be redirected to a
-   login page to authorise the installation of pipwave Hosted Payment
-   Page for Shopify.
+- Open the installation URL below, your page will be redirected to a login page to authorise the installation of pipwave Hosted Payment Page for Shopify.
+
 > https://www.shopify.com/login?redirect=authorize_gateway%2F1030915
 
 ![Authorise installation of pipwave Hosted Payment Page for Shopify](https://cloud.githubusercontent.com/assets/12998063/19794935/6da2c136-9d09-11e6-86b8-ca1004008c51.png)
